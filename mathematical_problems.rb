@@ -1,20 +1,21 @@
-#Problem: Get user input of the following details and print the below output.
-#Gets Input
-cars 
-space_in_a_car 
-drivers
-passengers
- # eg: 
-cars = 100
-space_in_a_car = 4.0
-drivers = 30
-passengers = 90
+#Problem: Phone Number To Reveal you Age
 
+Last Digit Of cell phone Number: 
+Birth Year: 
+
+
+Formula:
+
+phone number Muliply by 2
+then add 5
+then muliply by 50
+Add number 1785
+Subtract your birth Year.
+In that total first digit is last digit phone number
+last two digit is your age
 # output
-"There are 100 cars available."
-"There are only 30 drivers available."
-"There will be 70 empty cars today."
-"We can transport 120 people today."
-"We have 90 to carpool today."
-"We need to put about 3 in each car."
+
+"Your last digit phone number "
+"Your age "
+"Hurray!! Now we got your age!! But looks like you need stick to walk!! "
 
