@@ -21,6 +21,7 @@ ruby = "Related To Ruby"
 
 #problem4: 
 #input
+
 "     CorrecD me!!"
 
 #output 
@@ -30,5 +31,7 @@ ruby = "Related To Ruby"
 "Jifflers||are||awesome||developers"
 #output
 "Jifflers are awesome developers"
+
+LINK REF: http://ruby-doc.org/core-2.2.0/String.html
 
 
